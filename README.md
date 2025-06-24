@@ -20,7 +20,7 @@ Web de Iglesia: Proyecto en desarrollo, web basada en Astro y Tailwind (HTML, As
 📈 Mi Actividad en GitHub
 Markdown
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TheGatoSamuraihub&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TheGatoSamurai&show_icons=true&theme=radical)
 ![Idiomas más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGatoSamurai&layout=compact&theme=radical)
 
 💬 Contáctame
