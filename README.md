@@ -8,6 +8,7 @@
 Soy **Gerald**, conocido en línea como **thegatosamurai** 🐱🥷. Estudiante de **Ingeniería en Informática** en **Duoc UC San Joaquín**, me especializo en **desarrollo Front-End** con una fuerte base en diseño web, usabilidad y experiencias digitales. También estoy profundizando en **Back-End**, buscando un enfoque integral para construir soluciones eficientes, escalables y con propósito.
 
 La **curiosidad**, el **pensamiento creativo** y la **autenticidad** son los motores que me impulsan. Me apasiona aprender nuevas tecnologías, crear interfaces limpias y funcionales, y explorar cómo el desarrollo web puede generar impacto en áreas como el e-commerce, la cultura digital y los proyectos sociales.
+🌐[Mi portafolio](https://thegatosamurai.dev).
 
 Además de programar, soy un amante de las historias. En mi tiempo libre escribo **poesía y prosa breve**, explorando emociones, mundos simbólicos y reflexiones personales. Puedes leer mis textos en mi blog literario:  
 📖 [damiancarmesi.blogspot.com](https://damiancarmesi.blogspot.com/)
